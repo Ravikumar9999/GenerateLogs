@@ -1,0 +1,91 @@
+2023-02-28 21:35:30,292  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-02-28 21:35:41,420  INFO [main] LoginTest:67 - ****************************** starting test case *****************************************
+2023-02-28 21:35:41,421  INFO [main] LoginTest:68 - ****************************** freemCRMLogoTest *****************************************
+2023-02-28 21:35:41,528  INFO [main] LoginTest:73 - ****************************** ending test case *****************************************
+2023-02-28 21:35:41,528  INFO [main] LoginTest:74 - ****************************** freemCRMLogoTest *****************************************
+2023-02-28 21:35:41,533  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-02-28 21:35:52,718  INFO [main] LoginTest:52 - ****************************** starting test case *****************************************
+2023-02-28 21:35:52,719  INFO [main] LoginTest:53 - ****************************** freeCrmTitleTest *****************************************
+2023-02-28 21:35:52,729  INFO [main] LoginTest:58 - ****************************** ending test case *****************************************
+2023-02-28 21:35:52,732  INFO [main] LoginTest:59 - ****************************** freeCrmTitleTest *****************************************
+2023-02-28 21:35:52,736  INFO [main] LoginTest:90 - ****************************** Browser is closed *****************************************
+2023-02-28 21:38:28,131  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-02-28 21:38:29,292  INFO [main] LoginTest:40 - launching chrome broswer
+2023-02-28 21:38:39,687  INFO [main] LoginTest:47 - entering application URL
+2023-02-28 21:38:39,689  WARN [main] LoginTest:48 - Hey this just a warning message
+2023-02-28 21:38:39,691 FATAL [main] LoginTest:49 - hey this is just fatal error message
+2023-02-28 21:38:39,694 DEBUG [main] LoginTest:50 - this is debug message
+2023-02-28 21:38:39,747  INFO [main] LoginTest:75 - ****************************** starting test case *****************************************
+2023-02-28 21:38:39,751  INFO [main] LoginTest:76 - ****************************** freemCRMLogoTest *****************************************
+2023-02-28 21:38:39,887  INFO [main] LoginTest:81 - ****************************** ending test case *****************************************
+2023-02-28 21:38:39,888  INFO [main] LoginTest:82 - ****************************** freemCRMLogoTest *****************************************
+2023-02-28 21:38:39,893  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-02-28 21:38:40,792  INFO [main] LoginTest:40 - launching chrome broswer
+2023-02-28 21:38:51,475  INFO [main] LoginTest:47 - entering application URL
+2023-02-28 21:38:51,476  WARN [main] LoginTest:48 - Hey this just a warning message
+2023-02-28 21:38:51,476 FATAL [main] LoginTest:49 - hey this is just fatal error message
+2023-02-28 21:38:51,476 DEBUG [main] LoginTest:50 - this is debug message
+2023-02-28 21:38:51,479  INFO [main] LoginTest:57 - ****************************** starting test case *****************************************
+2023-02-28 21:38:51,480  INFO [main] LoginTest:58 - ****************************** freeCrmTitleTest *****************************************
+2023-02-28 21:38:51,493  INFO [main] LoginTest:63 - login page title is--->Free CRM - CRM software for customer relationship management, sales, and support.
+2023-02-28 21:38:51,494  INFO [main] LoginTest:66 - ****************************** ending test case *****************************************
+2023-02-28 21:38:51,494  INFO [main] LoginTest:67 - ****************************** freeCrmTitleTest *****************************************
+2023-02-28 21:38:51,500  INFO [main] LoginTest:98 - ****************************** Browser is closed *****************************************
+2023-02-28 21:49:01,542  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-02-28 21:49:02,904  INFO [main] LoginTest:40 - launching chrome broswer
+2023-02-28 21:49:16,096  INFO [main] LoginTest:47 - entering application URL
+2023-02-28 21:49:16,099  WARN [main] LoginTest:48 - Hey this just a warning message
+2023-02-28 21:49:16,101 FATAL [main] LoginTest:49 - hey this is just fatal error message
+2023-02-28 21:49:16,105 DEBUG [main] LoginTest:50 - this is debug message
+2023-02-28 21:49:16,140  INFO [main] LoginTest:75 - ****************************** starting test case *****************************************
+2023-02-28 21:49:16,141  INFO [main] LoginTest:76 - ****************************** freemCRMLogoTest *****************************************
+2023-02-28 21:49:16,257  INFO [main] LoginTest:81 - ****************************** ending test case *****************************************
+2023-02-28 21:49:16,258  INFO [main] LoginTest:82 - ****************************** freemCRMLogoTest *****************************************
+2023-02-28 21:49:16,266  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-02-28 21:49:17,372  INFO [main] LoginTest:40 - launching chrome broswer
+2023-02-28 21:49:29,655  INFO [main] LoginTest:47 - entering application URL
+2023-02-28 21:49:29,656  WARN [main] LoginTest:48 - Hey this just a warning message
+2023-02-28 21:49:29,657 FATAL [main] LoginTest:49 - hey this is just fatal error message
+2023-02-28 21:49:29,658 DEBUG [main] LoginTest:50 - this is debug message
+2023-02-28 21:49:29,663  INFO [main] LoginTest:57 - ****************************** starting test case *****************************************
+2023-02-28 21:49:29,664  INFO [main] LoginTest:58 - ****************************** freeCrmTitleTest *****************************************
+2023-02-28 21:49:29,680  INFO [main] LoginTest:63 - login page title is--->Free CRM - CRM software for customer relationship management, sales, and support.
+2023-02-28 21:49:29,681  INFO [main] LoginTest:66 - ****************************** ending test case *****************************************
+2023-02-28 21:49:29,681  INFO [main] LoginTest:67 - ****************************** freeCrmTitleTest *****************************************
+2023-02-28 21:49:29,686  INFO [main] LoginTest:98 - ****************************** Browser is closed *****************************************
+2023-03-13 23:16:24,233  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-03-13 23:16:25,304  INFO [main] LoginTest:40 - launching chrome broswer
+2023-03-13 23:16:35,905  INFO [main] LoginTest:47 - entering application URL
+2023-03-13 23:16:35,907  WARN [main] LoginTest:48 - Hey this just a warning message
+2023-03-13 23:16:35,908 FATAL [main] LoginTest:49 - hey this is just fatal error message
+2023-03-13 23:16:35,908 DEBUG [main] LoginTest:50 - this is debug message
+2023-03-13 23:16:35,920  INFO [main] LoginTest:75 - ****************************** starting test case *****************************************
+2023-03-13 23:16:35,921  INFO [main] LoginTest:76 - ****************************** freemCRMLogoTest *****************************************
+2023-03-13 23:16:36,012  INFO [main] LoginTest:81 - ****************************** ending test case *****************************************
+2023-03-13 23:16:36,012  INFO [main] LoginTest:82 - ****************************** freemCRMLogoTest *****************************************
+2023-03-13 23:16:36,017  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-03-13 23:16:36,935  INFO [main] LoginTest:40 - launching chrome broswer
+2023-03-13 23:16:47,013  INFO [main] LoginTest:47 - entering application URL
+2023-03-13 23:16:47,014  WARN [main] LoginTest:48 - Hey this just a warning message
+2023-03-13 23:16:47,014 FATAL [main] LoginTest:49 - hey this is just fatal error message
+2023-03-13 23:16:47,015 DEBUG [main] LoginTest:50 - this is debug message
+2023-03-13 23:16:47,017  INFO [main] LoginTest:57 - ****************************** starting test case *****************************************
+2023-03-13 23:16:47,017  INFO [main] LoginTest:58 - ****************************** freeCrmTitleTest *****************************************
+2023-03-13 23:16:47,028  INFO [main] LoginTest:63 - login page title is--->Free CRM - CRM software for customer relationship management, sales, and support.
+2023-03-13 23:16:47,029  INFO [main] LoginTest:66 - ****************************** ending test case *****************************************
+2023-03-13 23:16:47,029  INFO [main] LoginTest:67 - ****************************** freeCrmTitleTest *****************************************
+2023-03-13 23:16:47,033  INFO [main] LoginTest:98 - ****************************** Browser is closed *****************************************
+2023-03-14 11:01:09,194  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-03-14 11:01:10,531  INFO [main] LoginTest:40 - launching chrome broswer
+2023-03-21 12:07:33,503  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-03-21 12:07:35,632  INFO [main] LoginTest:40 - launching chrome broswer
+2023-03-21 12:07:50,099  INFO [main] LoginTest:47 - entering application URL
+2023-03-21 12:07:50,100  WARN [main] LoginTest:48 - Hey this just a warning message
+2023-03-21 12:07:50,100 FATAL [main] LoginTest:49 - hey this is just fatal error message
+2023-03-21 12:07:50,102 DEBUG [main] LoginTest:50 - this is debug message
+2023-03-21 12:07:50,113  INFO [main] LoginTest:75 - ****************************** starting test case *****************************************
+2023-03-21 12:07:50,113  INFO [main] LoginTest:76 - ****************************** freemCRMLogoTest *****************************************
+2023-03-21 12:07:50,217  INFO [main] LoginTest:81 - ****************************** ending test case *****************************************
+2023-03-21 12:07:50,217  INFO [main] LoginTest:82 - ****************************** freemCRMLogoTest *****************************************
+2023-03-21 12:07:50,224  INFO [main] LoginTest:35 - ****************************** Starting test cases execution  *****************************************
+2023-03-21 12:07:51,080  INFO [main] LoginTest:40 - launching chrome broswer
